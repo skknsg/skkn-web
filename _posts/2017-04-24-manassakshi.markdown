@@ -4,8 +4,8 @@ subtitle: Drama
 layout: default
 modal-id: 5
 date: 2017-04-24
-img: skkn-palam-2017.jpg
-thumbnail: skkn-palam-2017_thumbnail.jpg
+img: manasaakshi-skkn.jpg
+thumbnail: manasaakshi-skkn_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
