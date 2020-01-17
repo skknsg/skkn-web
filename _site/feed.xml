@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singapore Kairalee Kala Nilayam</title>
+    <description>Singapore Kairalee Kala Nilayam, Welcome To The Pioneer INDIAN ART HOUSE of Singapore</description>
+    <link>http://localhost:4002/</link>
+    <atom:link href="http://localhost:4002/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 18 Jan 2020 00:17:57 +0800</pubDate>
+    <lastBuildDate>Sat, 18 Jan 2020 00:17:57 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Aaraachaar</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4002/drama/2019/04/01/aaraachaar/</link>
+        <guid isPermaLink="true">http://localhost:4002/drama/2019/04/01/aaraachaar/</guid>
+        
+        
+        <category>Drama</category>
+        
+      </item>
+    
+      <item>
+        <title>Bombay Tailors</title>
+        <description>
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4002/drama/2018/01/11/bombay-tailors/</link>
+        <guid isPermaLink="true">http://localhost:4002/drama/2018/01/11/bombay-tailors/</guid>
+        
+        
+        <category>Drama</category>
+        
+      </item>
+    
+      <item>
+        <title>Kairalee Festival</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4002/event/2017/06/01/kairalee-festival-2017/</link>
+        <guid isPermaLink="true">http://localhost:4002/event/2017/06/01/kairalee-festival-2017/</guid>
+        
+        
+        <category>Event</category>
+        
+      </item>
+    
+      <item>
+        <title>Palam ( The Bridge)</title>
+        <description>
+</description>
+        <pubDate>Sat, 06 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4002/web%20development/2017/05/06/paalam/</link>
+        <guid isPermaLink="true">http://localhost:4002/web%20development/2017/05/06/paalam/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Manassakshi (The Conscience)</title>
+        <description>
+</description>
+        <pubDate>Mon, 24 Apr 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4002/drama/2017/04/24/manassakshi/</link>
+        <guid isPermaLink="true">http://localhost:4002/drama/2017/04/24/manassakshi/</guid>
+        
+        
+        <category>Drama</category>
+        
+      </item>
+    
+      <item>
+        <title>Kannadi (Mirror)</title>
+        <description>
+</description>
+        <pubDate>Sat, 06 Aug 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4002/web%20development/2016/08/06/kannaadi/</link>
+        <guid isPermaLink="true">http://localhost:4002/web%20development/2016/08/06/kannaadi/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
