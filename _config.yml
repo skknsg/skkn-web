@@ -53,14 +53,14 @@ people:
 
 - name: Reshmi Pilla
   pic: Reshmi-pp
-  position: Hon. General Secretary
+  position: General Secretary
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Krishnalal
   pic: krishnalal
-  position: Hon. Treasure
+  position: Treasurer 
   social:
     - title: facebook
       url: https://www.facebook.com/krishnalal.pv.7
@@ -75,14 +75,14 @@ people:
 
 - name: MKV Rajesh
   pic: mkv-rajesh
-  position: Vice Presidents
+  position: Vice President
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Sheeba
   pic: Sheeba
-  position: Vice Presidents
+  position: Vice President
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -90,7 +90,7 @@ people:
 # ---------------------------------------------------
 - name: Nannitha
   pic: nannitha
-  position: Associate Hon. General Secretary
+  position: Associate General Secretary
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
