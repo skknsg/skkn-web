@@ -15,6 +15,11 @@ body {
     text-align: justify;
 }
 
+.text-muted2 {
+    color: #{{ site.data.template.color.muted }};
+}
+
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
