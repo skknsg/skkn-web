@@ -297,6 +297,13 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
 }
 
+header .intro-text .intro-lead-in-malayalam {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.malayalam }};
+    font-size: 22px;
+    line-height: 36px;
+}
+
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
