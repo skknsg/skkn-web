@@ -43,64 +43,26 @@ people:
     - title: facebook
       url: https://www.facebook.com/gangadharan.kunnon
 
-# ---------------------------------------------------      
-- name: Basil Baby
-  pic: basil
-  position: President
-  social:
-    - title: facebook
-      url: https://www.facebook.com/basilbabyy
-
-- name: Reshmi Pilla
-  pic: Reshmi-pp
-  position: General Secretary
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/rajeshkumarking
-
-- name: Krishnalal
-  pic: krishnalal
-  position: Treasurer 
-  social:
-    - title: facebook
-      url: https://www.facebook.com/krishnalal.pv.7
-
-# ---------------------------------------------------
-- name: Jithu Mohan
-  pic: Jithu
-  position: Ladies Wing Chairman
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/basilbabyy
-
-- name: MKV Rajesh
-  pic: mkv-rajesh
-  position: Vice President
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/rajeshkumarking
-
-- name: Sheeba
-  pic: Sheeba
-  position: Vice President
+- name: Nima Manaf
+  pic: nima
+  position: Hon Treasurer 
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
 
-# ---------------------------------------------------
-- name: Nannitha
-  pic: nannitha
-  position: Associate General Secretary
+- name: Sunitha Nair
+  pic: sunitha-nair
+  position: Vice Chairman
   social:
 #    - title: facebook
-#      url: https://www.facebook.com/basilbabyy
+#      url: https://www.facebook.com/krishnalal.pv.7
 
-- name: Vivek
-  pic: Vivek
-  position: Associate Treasurer
+- name: Jayaram
+  pic: Jayaram
+  position: Vice Chairman
   social:
 #    - title: facebook
-#      url: https://www.facebook.com/rajeshkumarking
+#      url: https://www.facebook.com/krishnalal.pv.7
 
 - name: Ragesh
   pic: Ragesh
@@ -109,29 +71,36 @@ people:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
 
-# ---------------------------------------------------
-- name: Veena
-  pic: veena_unny
-  position: Associate Cultural Secretary 
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/basilbabyy
-
-- name: Gayathri
-  pic: Gayathri
-  position: Ladies Wing Convenor
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/rajeshkumarking
-
-- name: Shibolin
-  pic: Shibolin
-  position: Youth Wing Chairman
+- name: Sheeba
+  pic: dummy-female
+  #Sheeba Stephen
+  position: Artistic Director
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
 
-# ---------------------------------------------------
+- name: Rajith Mohan
+  pic: dummy-male
+  #rajith-mohan
+  position: General Secretary
+  social:
+    # - title: facebook
+    #   url: https://www.facebook.com/basilbabyy
+
+- name: Balan Anil Kumar
+  pic: balan-anil-kumar
+  position: Welfare Committee Chairman
+  social:
+    # - title: facebook
+    #   url: https://www.facebook.com/basilbabyy
+
+- name: Roshini Sheela Rani
+  pic: Roshni
+  position: Director of Events
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
 - name: Krishnakumar
   pic: Krishnakumar
   position: Auditor
@@ -139,16 +108,105 @@ people:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
+# ---------------------------------------------------      
+- name: Basil Baby
+  pic: basil
+  position: Exco Member
+  social:
+    - title: facebook
+      url: https://www.facebook.com/basilbabyy
+
+- name: Krishnalal
+  pic: krishnalal
+  position: Exco Member
+  social:
+    - title: facebook
+      url: https://www.facebook.com/krishnalal.pv.7
+
+
+- name: Vivek Viswanath
+  pic: Vivek
+  position: Exco Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Gineesh Madapparambath
+  pic: gineesh-madapparambath
+  position: Exco Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+
+- name: Reshmi Pilla
+  pic: Reshmi-pp
+  #position: General Secretary
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+
+# ---------------------------------------------------
+- name: Jithu Mohan
+  pic: Jithu
+  #position: Ladies Wing Chairman
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: MKV Rajesh
+  pic: mkv-rajesh
+  #position: Vice President
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+
+# ---------------------------------------------------
+- name: Nannitha
+  pic: nannitha
+  #position: Associate General Secretary
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+
+# ---------------------------------------------------
+- name: Veena
+  pic: veena_unny
+  #position: Associate Cultural Secretary 
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Gayathri
+  pic: Gayathri
+  #position: Ladies Wing Convenor
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Shibolin
+  pic: Shibolin
+  #position: Youth Wing Chairman
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+
+
 - name: Anish
   pic: Anish_kunnathu
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Binoop
   pic: Binoop-Nair
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -156,65 +214,54 @@ people:
 # ---------------------------------------------------
 - name: Smitha
   pic: smitha_nair
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Subu
   pic: subu-iyer
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
-- name: Gini
-  pic: gini
-  position: Committee Member
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/krishnalal.pv.7
 
 # ---------------------------------------------------
 - name: Sujith
   pic: sujith
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Harish
   pic: Harish
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
-- name: Nima
-  pic: nima
-  position: Committee Member
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/krishnalal.pv.7
+
 
 # ---------------------------------------------------
 - name: Murali
   pic: Murali_krishna
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Muralee
   pic: muralee_krishnan
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Sajin Ravi
   pic: sajinRavi
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -222,21 +269,21 @@ people:
 # ---------------------------------------------------
 - name: Biju Kurup
   pic: biju-kuruppu
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Metrice
   pic: Metrice
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Panayam Liju
   pic: Panayam_Liju
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -244,43 +291,32 @@ people:
 # ---------------------------------------------------
 - name: Sebi
   pic: sebi
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
-- name: Roshni
-  pic: Roshni
-  position: Committee Member
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/rajeshkumarking
 
-- name: Jayaram
-  pic: Jayaram
-  position: Committee Member
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/krishnalal.pv.7
+
 
 # ---------------------------------------------------
 - name: Jacob
   pic: Jacob
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Rabin
   pic: rabin
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Sam
   pic: Sam
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -288,21 +324,21 @@ people:
 # ---------------------------------------------------
 - name: Godwin
   pic: Godwin
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Renuka
   pic: renuka
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: RR Subhas
   pic: RR_subhas
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -310,21 +346,21 @@ people:
 # ---------------------------------------------------
 - name: Fami
   pic: fami
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
 
 - name: Sreyus
   pic: Sreyus
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
 
 - name: Manoj Chandran
   pic: Manoj_Chandran
-  position: Committee Member
+  #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
