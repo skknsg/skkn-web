@@ -6,7 +6,8 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif; */
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -25,7 +26,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.75;
 }
 
