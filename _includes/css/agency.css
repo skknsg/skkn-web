@@ -12,7 +12,7 @@ body {
 }
 
 .text-muted {
-    color: #{{ site.data.template.color.muted }};
+    color: #{{ site.data.template.color.muted }} !important;
     text-align: left;
 }
 
@@ -43,7 +43,8 @@ a.active {
 }
 
 a {
-    color: #{{ site.data.template.color.primary }};
+    /* color: #{{ site.data.template.color.primary }}; */
+    color: indigo;
 }
 
 a:hover,
