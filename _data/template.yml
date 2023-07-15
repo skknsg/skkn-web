@@ -3,11 +3,12 @@ color:
   primary: fed136
   secondary: fec503   
   secondary-dark: 333
-  muted: 777
+  # muted: 777
+  mute: 585858
 
 # Font Families
 font:
-  primary: '"Rubik", Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Rubik", "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
-  malayalam: '"Manjari", "Helvetica Neue",Helvetica,Arial,sans-serif'
+  primary: '"Outfit", "Rubik", Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Outfit", "Rubik", "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  malayalam: '"Outfit", "Manjari", "Helvetica Neue",Helvetica,Arial,sans-serif'
 

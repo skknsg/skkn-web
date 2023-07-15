@@ -6,14 +6,14 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Outfit', sans-serif;
     /* font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif; */
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};
-    text-align: justify;
+    text-align: left;
 }
 
 .text-muted2 {
@@ -183,7 +183,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script", "Rubic", "Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Outfit', sans-serif;
+    /* font-family: "Kaushan Script", "Rubic", "Helvetica Neue",Helvetica,Arial,cursive; */
     font-weight: 700;
     /*color: #{{ site.data.template.color.primary }};*/
 }
@@ -547,7 +548,7 @@ section h3.section-subheading {
     border: 7px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
-    color: #fff;
+    color: #121212;
     background-color: #{{ site.data.template.color.primary }};
 }
 
