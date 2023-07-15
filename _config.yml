@@ -1,4 +1,4 @@
-url: "http://www.kairaleekalanilayam.org/"
+url: "https://www.kairaleekalanilayam.org/"
 baseurl: ""
 
 # Site settings
@@ -21,56 +21,285 @@ people:
 #    - title: stack-overflow
 #      url: #
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/sgkairalee
+  - title: facebook
+    url: https://www.facebook.com/KairaleeKalaNilayam
+  - title: linkedin
+    url: https://www.linkedin.com/company/kairaleekalanilayam
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 110 Faber Terrace
+  - line: Singapore, 129065
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# --------------------2023 start----------------------------------------
 # ---------------------------------------------------
+people:
 - name: D Sudheeran
-  pic: d.sudheeran
+  pic: d-sudheeran.jpg
   position: Advisor
   social:
     - title: facebook
       url: https://www.facebook.com/sudheeran
 
 - name: G Rajeshkumar
-  pic: Rajeshkumar
+  pic: rajeshkumar.jpg
   position: Advisor
   social:
     - title: facebook
       url: https://www.facebook.com/rajeshkumarking
 
+- name: R R Subash 
+  pic: subash.png
+  position: Advisor
+  social:
+    - title: facebook
+      url: https://www.facebook.com/ray.subhash.50
+
+- name: Gangadharan Kunnon
+  pic: gangadharan.jpg
+  position: President
+  social:
+    - title: facebook
+      url: https://www.facebook.com/gangadharan.kunnon
+    - title: instagram
+      url: https://www.instagram.com/gangadharankunnon
+      
+
+- name: Rajith Mohan
+  pic: rajith-mohan.jpg
+  position: Hon. General Secretary
+  social:
+    - title: facebook
+      url: https://www.facebook.com/mohanRajith
+
+- name: Manoj ABS
+  pic: manoj-abs.png
+  position: Hon. Treasurer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/manoj.abs
+    - title: instagram
+      url: https://www.instagram.com/manoj.abs
+
+- name: Ragesh Kumar
+  pic: ragesh.jpg
+  position: Cultural Secretary
+  social:
+   - title: facebook
+     url: https://www.facebook.com/rageshnair2006
+
+- name: Balaji GS
+  pic: balaji-gs.png
+  position: Vice President
+  social:
+   - title: facebook
+     url: https://www.facebook.com/balaji.gopinathansathikumari
+
+- name: Jayaram Nair
+  pic: jayaram-nair.png
+  position: Vice President
+  social:
+   - title: facebook
+     url: https://www.facebook.com/jayaram.nair.10
+   - title: instagram
+     url: https://www.instagram.com/actor_jayaramnair
+
+- name: Shanish K P
+  pic: shanish-kp.png
+  position: Hon. Asst Secretary
+  social:
+   - title: facebook
+     url: https://www.facebook.com/shanish.kp
+
+- name: Gineesh Madapparambath
+  pic: gineesh-madapparambath.jpg
+  position: Executive Committee member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/gineesh/
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+- name: Krishnalal P V
+  pic: krishnalal.jpg
+  position: Executive Committee member
+  social:
+    - title: facebook
+      url: https://www.facebook.com/krishnalal.pv.7
+
+- name: Binoop Nair
+  pic: binoop-nair.jpg
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/binoop.nair
+
+- name: Sujith K C
+  pic: sujith.jpg
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/sujith.kc
+
+- name: Balan Anil Kumar
+  pic: balan-anil-kumar.jpg
+  position: Executive Committee member
+  social:
+    - title: facebook
+      url: https://www.facebook.com/anilkrb
+
+- name: Vivek Viswanath
+  pic: vivek.jpg
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/vivek.viswanath.007
+
+- name: Naveen Chandran
+  pic: no-photo.png
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/nair.naveenc
+
+- name: Ronia Godwin
+  pic: no-photo.png
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.instagram.com/roniagodwin 
+
+- name: Shibolin Gangadharan
+  pic: shibolin.jpg
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/Chickuoo
+   - title: instagram
+     url: https://www.instagram.com/shibolin2405/
+
+- name: Gautham JP
+  pic: no-photo.png
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/goutygoutham 
+
+- name: Divya Balaji
+  pic: no-photo.png
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/divya.bala.7528
+
+- name: Keerthivas Patteri
+  pic: keerthivas.png
+  position: Executive Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/keerthivas.patteri
+
+- name: Rita Nanu
+  pic: rita-nanu.png
+  position: Sub-Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/rita.nanu.3785 
+
+- name: Smitha Nair
+  pic: smitha-nair.jpg
+  position: Sub-Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/profile.php?id=100089817672027
+
+- name: Srekanth Menon
+  pic: sreekanth-menon.jpg
+  position: Sub-Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/sreekanth.menon.12
+
+- name: Sheeba Stephen
+  pic: sheeba-stephen.jpg
+  position: Sub-Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/profile.php?id=100004044553113 
+
+- name: Sunitha Nair
+  pic: sunitha-nair.jpg
+  position: Sub-Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/sunitha.nair.9693
+
+- name: Panayam Liju
+  pic: panayam-liju.jpg
+  position: Sub-Committee member
+  social:
+   - title: facebook
+     url: https://www.facebook.com/panayamliju
+
+
+# # ---------------------------------------------------      
+# - name: Basil Baby
+#   pic: basil
+#   position: Exco Member
+#   social:
+#     - title: facebook
+#       url: https://www.facebook.com/basilbabyy
+
+# ------------------2023 end-------------------------------
+
+
+
+# ----------- 2022 start----------------------------------------
+people2022:
+- name: D Sudheeran
+  pic: d.sudheeran
+  position: Advisor
+  social:
+    - title: facebook
+      url: https://www.facebook.com/sudheeran
+- name: G Rajeshkumar
+  pic: Rajeshkumar
+  position: Advisor
+  social:
+    - title: facebook
+      url: https://www.facebook.com/rajeshkumarking
 - name: Gangadharan Kunnon
   pic: Gangadharan
   position: President
   social:
     - title: facebook
       url: https://www.facebook.com/gangadharan.kunnon
-
 - name: Nima Manaf
   pic: nima
   position: Hon Treasurer 
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
-- name: Sunitha Nair
-  pic: sunitha-nair
-  position: Vice Chairman
-  social:
-#    - title: facebook
-#      url: https://www.facebook.com/krishnalal.pv.7
-
 - name: Jayaram
   pic: Jayaram
   position: Vice Chairman
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 - name: Ragesh
   pic: Ragesh
   position: Cultural Secretary
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 - name: Rajith Mohan
   pic: rajith-mohan
   position: General Secretary
@@ -84,28 +313,24 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 - name: Balan Anil Kumar
   pic: balan-anil-kumar
   position: Welfare Committee Chairman
   social:
     # - title: facebook
     #   url: https://www.facebook.com/basilbabyy
-
 - name: Roshini Sheela Rani
   pic: Roshni
   position: Director of Events
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Krishnakumar
   pic: Krishnakumar
   position: Auditor
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 # ---------------------------------------------------      
 - name: Basil Baby
   pic: basil
@@ -113,22 +338,18 @@ people:
   social:
     - title: facebook
       url: https://www.facebook.com/basilbabyy
-
 - name: Krishnalal
   pic: krishnalal
   position: Exco Member
   social:
     - title: facebook
       url: https://www.facebook.com/krishnalal.pv.7
-
-
 - name: Vivek Viswanath
   pic: Vivek
   position: Exco Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Gineesh Madapparambath
   pic: gineesh-madapparambath
   position: Exco Member
@@ -137,16 +358,12 @@ people:
       url: https://www.linkedin.com/in/gineesh/
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
-
 - name: Reshmi Pilla
   pic: Reshmi-pp
   #position: General Secretary
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
-
 # ---------------------------------------------------
 - name: Jithu Mohan
   pic: Jithu
@@ -154,15 +371,12 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: MKV Rajesh
   pic: mkv-rajesh
   #position: Vice President
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
-
 # ---------------------------------------------------
 - name: Nannitha
   pic: nannitha
@@ -170,8 +384,6 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
-
 # ---------------------------------------------------
 - name: Veena
   pic: veena_unny
@@ -179,38 +391,31 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Gayathri
   pic: Gayathri
   #position: Ladies Wing Convenor
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Shibolin
   pic: Shibolin
   #position: Youth Wing Chairman
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 # ---------------------------------------------------
-
-
 - name: Anish
   pic: Anish_kunnathu
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Binoop
   pic: Binoop-Nair
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 # ---------------------------------------------------
 - name: Smitha
   pic: smitha_nair
@@ -218,15 +423,12 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Subu
   pic: subu-iyer
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
-
 # ---------------------------------------------------
 - name: Sujith
   pic: sujith
@@ -234,16 +436,12 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Harish
   pic: Harish
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
-
-
 # ---------------------------------------------------
 - name: Murali
   pic: Murali_krishna
@@ -251,21 +449,18 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Muralee
   pic: muralee_krishnan
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Sajin Ravi
   pic: sajinRavi
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 # ---------------------------------------------------
 - name: Biju Kurup
   pic: biju-kuruppu
@@ -273,21 +468,18 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Metrice
   pic: Metrice
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Panayam Liju
   pic: Panayam_Liju
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 # ---------------------------------------------------
 - name: Sebi
   pic: sebi
@@ -295,10 +487,6 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
-
-
-
 # ---------------------------------------------------
 - name: Jacob
   pic: Jacob
@@ -306,21 +494,18 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Rabin
   pic: rabin
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Sam
   pic: Sam
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 # ---------------------------------------------------
 - name: Godwin
   pic: Godwin
@@ -328,21 +513,18 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Renuka
   pic: renuka
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: RR Subhas
   pic: RR_subhas
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
-
 # ---------------------------------------------------
 - name: Fami
   pic: fami
@@ -350,14 +532,12 @@ people:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-
 - name: Sreyus
   pic: Sreyus
   #position: Committee Member
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/rajeshkumarking
-
 - name: Manoj Chandran
   pic: Manoj_Chandran
   #position: Committee Member
@@ -365,18 +545,4 @@ people:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/sgkairalee
-  - title: facebook
-    url: https://www.facebook.com/KairaleeKalaNilayam
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 110 Faber Terrace
-  - line: Singapore, 129065
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+# ------------end 2022-----------
