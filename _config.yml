@@ -23,6 +23,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: instagram
+    url: https://www.instagram.com/kairalee_sg
   - title: twitter
     url: https://twitter.com/sgkairalee
   - title: facebook
@@ -56,7 +58,7 @@ people:
     - title: facebook
       url: https://www.facebook.com/rajeshkumarking
 
-- name: R R Subash 
+- name: R R Subash
   pic: subash.png
   position: Advisor
   social:
@@ -71,7 +73,7 @@ people:
       url: https://www.facebook.com/gangadharan.kunnon
     - title: instagram
       url: https://www.instagram.com/gangadharankunnon
-      
+
 
 - name: Rajith Mohan
   pic: rajith-mohan.jpg
@@ -175,7 +177,7 @@ people:
   position: Executive Committee member
   social:
    - title: facebook
-     url: https://www.instagram.com/roniagodwin 
+     url: https://www.instagram.com/roniagodwin
 
 - name: Shibolin Gangadharan
   pic: shibolin.jpg
@@ -191,7 +193,7 @@ people:
   position: Executive Committee member
   social:
    - title: facebook
-     url: https://www.facebook.com/goutygoutham 
+     url: https://www.facebook.com/goutygoutham
 
 - name: Divya Balaji
   pic: divya-balaji.png
@@ -212,7 +214,7 @@ people:
   position: Sub-Committee Leader
   social:
    - title: facebook
-     url: https://www.facebook.com/rita.nanu.3785 
+     url: https://www.facebook.com/rita.nanu.3785
 
 - name: Smitha Nair
   pic: smitha-nair.jpg
@@ -233,7 +235,7 @@ people:
   position: Sub-Committee Leader
   social:
    - title: facebook
-     url: https://www.facebook.com/profile.php?id=100004044553113 
+     url: https://www.facebook.com/profile.php?id=100004044553113
 
 - name: Sunitha Nair
   pic: sunitha-nair.jpg
@@ -250,7 +252,7 @@ people:
      url: https://www.facebook.com/panayamliju
 
 
-# # ---------------------------------------------------      
+# # ---------------------------------------------------
 # - name: Basil Baby
 #   pic: basil
 #   position: Exco Member
@@ -284,7 +286,7 @@ people2022:
       url: https://www.facebook.com/gangadharan.kunnon
 - name: Nima Manaf
   pic: nima
-  position: Hon Treasurer 
+  position: Hon Treasurer
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/krishnalal.pv.7
@@ -306,7 +308,7 @@ people2022:
   social:
     # - title: facebook
     #   url: https://www.facebook.com/basilbabyy
-    
+
 - name: Sheeba Stephen
   pic: Sheeba-Stephen
   position: Artistic Director
@@ -331,7 +333,7 @@ people2022:
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy
-# ---------------------------------------------------      
+# ---------------------------------------------------
 - name: Basil Baby
   pic: basil
   position: Exco Member
@@ -387,7 +389,7 @@ people2022:
 # ---------------------------------------------------
 - name: Veena
   pic: veena_unny
-  #position: Associate Cultural Secretary 
+  #position: Associate Cultural Secretary
   social:
 #    - title: facebook
 #      url: https://www.facebook.com/basilbabyy

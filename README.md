@@ -1,30 +1,11 @@
-Agency Jekyll theme
-====================
+# SKKN Website Content
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+## Development
 
-# How to use
+- Need Linux/Mac with Podman installed
+- Recommended to use VSCode editor
+- Test the website locally using Jekyll container - sample below:
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+```shell
+$ podman run --rm -p 4000:4000 -v ${PWD}:/data:Z -it quay.io/iamgini/jekyll-dev:1.0 sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --incremental"
+```
