@@ -25,6 +25,8 @@ people:
 social:
   - title: instagram
     url: https://www.instagram.com/kairalee_sg
+  - title: threads
+    url: https://www.threads.com/@kairalee_sg
   - title: twitter
     url: https://twitter.com/sgkairalee
   - title: facebook
@@ -36,6 +38,7 @@ social:
 address:
   - line: 110 Faber Terrace
   - line: Singapore, 129065
+
 
 # Build settings
 markdown: kramdown
