@@ -317,6 +317,56 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header-light {
+    text-align: center;
+    color: #292929;
+    background-attachment: scroll;
+    background-image: none;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+header-light .intro-text {
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+
+header-light .intro-text .lead-in {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+header-light .intro-text .intro-lead-in-malayalam {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.malayalam }};
+    font-size: 22px;
+    line-height: 36px;
+}
+
+
+header-light .intro-text .intro-lead-in-english {
+    margin-bottom: 25px;
+    /* font-family: {{ site.data.template.font.malayalam }}; */
+    font-size: 22px;
+    line-height: 36px;
+}
+
+header-light .intro-text .intro-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
 headwf20 {
     text-align: center;
     color: #fff;

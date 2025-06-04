@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+
+    <body id="page-top" class="index">
+
+      {% include navbar.html %}
+
+
+    <!-- Header -->
+
+
+    <header style="background-color: white; background-image: none">
+
+        <div class="container">
+            <div class="intro-text" style="padding-top: 200px; padding-bottom: 80px; color: rgb(39, 39, 39);">
+                <div class="intro-lead-in-english" style="font-size: 40px; font-weight: 700; text-align: left; padding-bottom: 40px;">{{ page.title }}</div>
+
+                <div class="intro-lead-in-malayalam" style="line-height: 36px; text-align: left; padding-top: 10px; padding-bottom: 50px;">
+                  {{ content }}
+
+                <br>
+
+                <br>
+
+
+
+                {% if page.button_text %}
+                  <a href="{{ page.button_link}}" class="page-scroll btn btn-xl" style="color: #000;">
+                    {{ page.button_text }}
+                  </a>
+                {% endif %}
+
+            </div>
+        </div>
+    </header>
+
+
+      {% include footer.html %}
+      {% include modals.html %}
+      {% include js.html %}
+
+    </body>
+</html>
