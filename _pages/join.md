@@ -3,6 +3,7 @@ title: Join Kairalee
 layout: page
 permalink: "/join"
 button_text: Join as a member today!
+button_link: https://forms.gle/8BK6kAALzTYWSKAy5
 ---
 
 ## Why Singapore Kairalee Kala Nilayam?
